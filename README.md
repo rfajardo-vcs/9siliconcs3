@@ -8,7 +8,7 @@
 
 ## Quarter 1
 
-### Activities
+### Activities [View Quarter 1 Folder](q1/ctskillsSiliconDomasianLN.md)
 
 #### - Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN.md)
