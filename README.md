@@ -6,9 +6,9 @@
 
 # Computer Science 3 Portfolio
 
-## Quarter 1
+## Quarter 1 [View Quarter 1 Folder](q1)
 
-### Activities [View Quarter 1 Folder](q1/ctskillsSiliconDomasianLN.md)
+### Activities 
 
 #### - Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsSiliconDomasianLN.md)
