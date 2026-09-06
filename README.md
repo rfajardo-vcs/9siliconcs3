@@ -9,6 +9,7 @@
 ## Quarter 1 
 [View Quarter 1 Folder](q1)
 
+
 ### Activities 
 
 #### - Computational Thinking Skills
