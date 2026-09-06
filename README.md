@@ -6,7 +6,8 @@
 
 # Computer Science 3 Portfolio
 
-## Quarter 1 [View Quarter 1 Folder](q1)
+## Quarter 1 
+[View Quarter 1 Folder](q1)
 
 ### Activities 
 
