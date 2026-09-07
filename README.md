@@ -1,8 +1,8 @@
-# 9siliconcs3
-## Student Information
-#### Name: Zoe Maxene Domasian  
-#### Section: Silicon  
-#### School Year: 2026-2027
+
+
+# Zoe Maxene Domasian  
+## Silicon  
+## 2026-2027
 
 # Computer Science 3 Portfolio
 
